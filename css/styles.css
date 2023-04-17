@@ -23,6 +23,12 @@ header {
     background-color: #0D3B66;
 }
 
+a:hover {
+    text-size-adjust: 2em;
+    color: #F4D35E;
+    background-color: #0D3B66 ;
+}
+
 blockquote {
     font-size: 3em;
 }
