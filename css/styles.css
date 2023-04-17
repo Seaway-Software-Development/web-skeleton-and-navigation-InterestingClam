@@ -1,0 +1,55 @@
+/*Color Pallet: 
+0D3B66 - Blue
+FAF0CA - Tan
+F4D35E - Gold*/
+
+/*(body, h1, h2, blockquote, table, header, nav, ul, li, a, a:hover*/
+
+h1, h2, h3, h4, h5, p, {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FAF0CA;
+    color: #0D3B66;
+}
+
+.topNav {
+    padding: 5px 5px 5px 5px;
+    margin: 2px 2px 2px 2px;
+    font-size: 1.5em;
+    color:#F4D35E;
+    background-color: #0D3B66;
+}
+
+blockquote {
+    font-size: 3em;
+}
+
+main {
+    color: #0D3B66;
+    background-color: #F4D35E;
+}
+
+table {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    color: #F4D35E;
+    background-color: #0D3B66;
+}
+
+.bottomNav {
+    padding: 5px 5px 5px 5px;
+    margin: 2px 2px 2px 2px;
+    font-size: .5em;
+    color:#0D3B66;
+    background-color: #FAF0CA;
+}
+
+
+
+
