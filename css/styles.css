@@ -55,10 +55,11 @@ footer {
     font-size: .5em;
     color:#0D3B66;
     background-color: #FAF0CA;
-    list-style-type: none;
 }
 
-
+ul,li {
+    display: inline-block;
+}
 
 .bottomNav ul{
     text-align: center;
