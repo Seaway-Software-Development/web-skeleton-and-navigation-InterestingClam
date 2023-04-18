@@ -73,9 +73,10 @@ footer {
 .bottomNav {
     padding: 5px 5px 5px 5px;
     margin: 2px 2px 2px 2px;
-    font-size: .5em;
+    font-size: 1.5em;
     color:#0D3B66;
     background-color: #FAF0CA;
+    text-align: center;
 }
 
 
