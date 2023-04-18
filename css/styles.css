@@ -13,6 +13,8 @@ h1, h2, h3, h4, h5, p, {
 header {
     background-color: #FAF0CA;
     color: #0D3B66;
+    height: 800px;
+    padding: 150px;
 }
 
 .topNav {
@@ -22,6 +24,10 @@ header {
     color:#F4D35E;
     background-color: #0D3B66;
     text-align: center;
+}
+
+ul,li {
+    display: inline-block;
 }
 
 a:hover {
@@ -39,6 +45,17 @@ main {
     background-color: #F4D35E;
 }
 
+.container{
+    width: 80%;
+    text-align: center;
+}
+
+section {
+    padding: 20% 150px;
+    font-size: 2.5em;
+    text-justify: inter-word;
+}
+
 table {
     margin: 0;
     padding: 0;
@@ -47,6 +64,9 @@ table {
 footer {
     color: #F4D35E;
     background-color: #0D3B66;
+    position: absolute;
+    height: 500px;
+    padding: 150px;
 }
 
 .bottomNav {
@@ -55,15 +75,6 @@ footer {
     font-size: .5em;
     color:#0D3B66;
     background-color: #FAF0CA;
-}
-
-ul,li {
-    display: inline-block;
-}
-
-.bottomNav ul{
-    text-align: center;
-    margin: 0 auto;
 }
 
 
