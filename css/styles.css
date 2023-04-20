@@ -10,6 +10,10 @@ h1, h2, h3, h4, h5, p, {
     padding: 0;
 }
 
+body {
+    width: 100%;
+}
+
 header {
     background-color: #FAF0CA;
     color: #0D3B66;
@@ -52,7 +56,7 @@ main {
 
 section {
     padding: 20% 150px;
-    font-size: 2.5em;
+    font-size: 1.5em;
     text-justify: inter-word;
 }
 
@@ -78,6 +82,9 @@ footer {
     background-color: #FAF0CA;
     text-align: center;
 }
+
+
+
 
 
 
