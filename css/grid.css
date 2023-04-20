@@ -21,5 +21,15 @@
 #CheeseProfessional {
     background-color: #FAF0CA;
     color: #F4D35E;
+    grid-area: CheeseProfessional;
 }
 
+.auntuncle {
+    width: 100%;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 0px;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-areas: "CheeseDeveloper" "CheeseProgrammer" "CheeseProfessional";
+    }
