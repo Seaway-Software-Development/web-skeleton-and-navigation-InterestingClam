@@ -7,6 +7,18 @@
     grid-template-areas: "CheeseDeveloper" "CheeseProgrammer" "CheeseProfessional";
     }
 
-#Cheese-Professional {
-
+#CheeseDeveloper {
+    background-color: #0D3B66;
+    color: #FAF0CA;
 }
+
+#CheeseProgrammer {
+    background-color: #FAF0CA;
+    color: #0D3B66;
+}
+
+#CheeseProfessional {
+    background-color: #FAF0CA;
+    color: #F4D35E;
+}
+
