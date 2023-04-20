@@ -26,8 +26,8 @@ header {
 }
 
 img {
-    min-width: 100px;
-    min-height: 200px;
+    max-width: 100px;
+    max-height: 200px;
 }
 
 .topNav {
