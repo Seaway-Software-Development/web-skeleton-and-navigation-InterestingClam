@@ -1,4 +1,5 @@
 .parent {
+    width: 100%;
     display: grid;
     grid-template-rows: 1fr;
     grid-column-gap: 20px;
