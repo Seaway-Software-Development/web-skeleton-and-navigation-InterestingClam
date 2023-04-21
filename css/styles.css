@@ -39,9 +39,9 @@ img {
 }
 
 .topNav {
-    padding: 5px 5px 5px 5px;
-    margin: 2px 2px 2px 2px;
-    font-size: 1.5em;
+    padding: 15px 15px 15px 15px;
+    margin: 12px 12px 12px 12px;
+    font-size: 2em;
     color:#F4D35E;
     background-color: #0D3B66;
     text-align: center;
@@ -78,27 +78,27 @@ section {
 }
 
 #work1 {
-    background-image: url(img/cheeseSorter.jpg);
+    background-image: url(../img/cheeseSorter.jpg);
 }
 
 #work2 {
-    background-image: url(img/cheeseMaker.jpg);
+    background-image: url(../img/cheeseMaker.jpg);
 }
 
 #work3 {
-    background-image: url(img/cheeseBoxer.jpg);
+    background-image: url(../img/cheeseBoxer.jpg);
 }
 
 #work4 {
-    background-image: url(img/cheeseBrander.jpg);
+    background-image: url(../img/cheeseBrander.jpg);
 }
 
 #work5 {
-    background-image: url(img/cheeseMixer.jpg);
+    background-image: url(../img/cheeseMixer.jpg);
 }
 
 #work6 {
-    background-image: url(img/cheeseSweeper.jpg);
+    background-image: url(../img/cheeseSweeper.jpg);
 }
 
 table {
@@ -116,8 +116,8 @@ footer {
 }
 
 .bottomNav {
-    padding: 5px 5px 5px 5px;
-    margin: 2px 2px 2px 2px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
     font-size: 1.5em;
     color:#0D3B66;
     background-color: #FAF0CA;
