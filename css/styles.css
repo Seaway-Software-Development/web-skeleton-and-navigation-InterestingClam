@@ -66,6 +66,11 @@ main {
     background-color: #F4D35E;
 }
 
+h3 {
+    background-color: #F4D35E;
+    color:#0D3B66;
+}
+
 .container{
     width: 80%;
     text-align: center;
