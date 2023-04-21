@@ -85,31 +85,37 @@ section {
 #work1 {
     background-image: url(../img/cheeseSorter.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #work2 {
     background-image: url(../img/cheeseMaker.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #work3 {
     background-image: url(../img/cheeseBoxer.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #work4 {
     background-image: url(../img/cheeseBrander.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #work5 {
     background-image: url(../img/cheeseMixer.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #work6 {
     background-image: url(../img/cheeseSweeper.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 table {
