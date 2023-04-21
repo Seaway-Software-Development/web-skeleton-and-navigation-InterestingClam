@@ -79,26 +79,32 @@ section {
 
 #work1 {
     background-image: url(../img/cheeseSorter.jpg);
+    background-repeat: none;
 }
 
 #work2 {
     background-image: url(../img/cheeseMaker.jpg);
+    background-repeat: none;
 }
 
 #work3 {
     background-image: url(../img/cheeseBoxer.jpg);
+    background-repeat: none;
 }
 
 #work4 {
     background-image: url(../img/cheeseBrander.jpg);
+    background-repeat: none;
 }
 
 #work5 {
     background-image: url(../img/cheeseMixer.jpg);
+    background-repeat: none;
 }
 
 #work6 {
     background-image: url(../img/cheeseSweeper.jpg);
+    background-repeat: none;
 }
 
 table {

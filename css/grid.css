@@ -25,12 +25,13 @@
 }
 
 .auntuncle {
-    width: 100%;
+
     display: grid;
-    grid-template-rows: 1fr;
-    grid-column-gap: 20px;
-    grid-row-gap: 0px;
+    width: 100%;
     grid-template-columns: 30% 30% 30%;
-    grid-template-area: "work1 work2 work3"
+    grid-template-areas: "work1 work2 work3"
                         "work4 work5 work6";
     }
+.yes {
+    grid
+}
