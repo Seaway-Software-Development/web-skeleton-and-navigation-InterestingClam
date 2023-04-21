@@ -7,6 +7,14 @@ F4D35E - Gold*/
 /*cheeseManager: "20130911-OC-RBN-3904" by USDAgov is licensed under CC BY 2.0. */
 /*cheeseProgrammer: "Programmer" by Irena Safarova is licensed under CC BY-SA 2.0. */
 
+/*cheeseSorter: "Quattro Formaggio" by Jon Åslund is licensed under CC BY 2.0.*/
+/*cheeseMixer: "Mixer goes by moving the cheese curds." by lori05871 is licensed under CC BY 2.0.*/
+/*cheeseMaker: "Prize winning cheese by the makers of Wisconsin Goliath Cheeses, Steve's Cheese produced by Steve's Cheese Co., Denmark, Wisconsin" by Boston Public Library is licensed under CC BY 2.0. */
+/*cheeseBrander: "Clancy's Cheese Dip, Aldi Store Brand, 9/2016, pics by Mike Mozart of TheToyChannel and JeepersMedia on YouTube #Clancys #Aldi #Cheese #Dip" by JeepersMedia is licensed under CC BY 2.0.*/
+/*cheeseSweeper: "Cheese Curling Sweeper" by Greg Schechter is licensed under CC BY 2.0. */
+
+
+
 /*(body, h1, h2, blockquote, table, header, nav, ul, li, a, a:hover*/
 
 *, *:before, *:after {
@@ -70,27 +78,27 @@ section {
 }
 
 #work1 {
-    background-image: url(https://openverse.org/image/23b53c88-749a-4e5f-82d6-b0920a0c68c6?q=cheese%20sorter);
+    background-image: url(img/cheeseSorter.jpg);
 }
 
 #work2 {
-    background-image: ;
+    background-image: url(img/cheeseMaker.jpg);
 }
 
 #work3 {
-    background-image: ;
+    background-image: url(img/cheeseBoxer.jpg);
 }
 
 #work4 {
-    background-image: ;
+    background-image: url(img/cheeseBrander.jpg);
 }
 
 #work5 {
-    background-image: ;
+    background-image: url(img/cheeseMixer.jpg);
 }
 
 #work6 {
-    background-image: ;
+    background-image: url(img/cheeseSweeper.jpg);
 }
 
 table {
